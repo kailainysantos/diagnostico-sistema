@@ -34,12 +34,21 @@ Para rodar o projeto, siga os passos abaixo:
 
 Acesse o diretório do projeto clonado:
 
-```bash
+```bash``
 cd diagnostico-sistema
 
 ## 4. Executar o Script de Diagnóstico
 
 Depois de instalar as dependências, execute o script principal de diagnóstico:
 
-```bash
+```bash``
 python diagnostico.py
+
+## Roadmap
+
+Aqui está o que está planejado para o futuro do projeto:
+
+- [ ] Adicionar suporte para diagnósticos em sistemas Linux.
+- [ ] Melhorar a interface com o usuário (UI) para tornar a experiência mais amigável.
+- [ ] Implementar diagnóstico de problemas em redes Wi-Fi.
+- [ ] Adicionar testes automatizados para garantir a integridade do sistema.
